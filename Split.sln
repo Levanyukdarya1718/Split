@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Split", "Split\Split.vcxproj", "{DBE3A320-CFCD-4A52-BDB1-9B9A30B8A9FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBE3A320-CFCD-4A52-BDB1-9B9A30B8A9FA}.Debug|x64.ActiveCfg = Debug|x64
+		{DBE3A320-CFCD-4A52-BDB1-9B9A30B8A9FA}.Debug|x64.Build.0 = Debug|x64
+		{DBE3A320-CFCD-4A52-BDB1-9B9A30B8A9FA}.Debug|x86.ActiveCfg = Debug|Win32
+		{DBE3A320-CFCD-4A52-BDB1-9B9A30B8A9FA}.Debug|x86.Build.0 = Debug|Win32
+		{DBE3A320-CFCD-4A52-BDB1-9B9A30B8A9FA}.Release|x64.ActiveCfg = Release|x64
+		{DBE3A320-CFCD-4A52-BDB1-9B9A30B8A9FA}.Release|x64.Build.0 = Release|x64
+		{DBE3A320-CFCD-4A52-BDB1-9B9A30B8A9FA}.Release|x86.ActiveCfg = Release|Win32
+		{DBE3A320-CFCD-4A52-BDB1-9B9A30B8A9FA}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0FB3494-8D81-4DA8-8D27-9A4E665305D1}
+	EndGlobalSection
+EndGlobal
